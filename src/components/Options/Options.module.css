@@ -1,0 +1,11 @@
+.options {
+    display: flex;
+    gap: 20px;
+    margin: 15px 0;
+  }
+  .button {
+    background-color: rgb(61, 165, 42);
+    font-size: 22px;
+    border: none;
+    color: aliceblue;
+  }
